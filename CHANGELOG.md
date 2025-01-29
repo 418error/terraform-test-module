@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file.
 
+## [1.1.1](https://github.com/418error/terraform-test-module/compare/v1.1.0...v1.1.1) (2025-01-29)
+
+
+### Bug Fixes
+
+* Changing bucket name ([#5](https://github.com/418error/terraform-test-module/issues/5)) ([07e5362](https://github.com/418error/terraform-test-module/commit/07e536218f1b4b5de30df59df1db8c89e44d663c))
+
 ## [1.1.0](https://github.com/418error/terraform-test-module/compare/v1.0.0...v1.1.0) (2025-01-29)
 
 

@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [3.0.0](https://github.com/418error/terraform-test-module/compare/v2.0.0...v3.0.0) (2025-01-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* Renaming bucket (#8)
+
+### Features
+
+* Renaming bucket ([#8](https://github.com/418error/terraform-test-module/issues/8)) ([eb66fa9](https://github.com/418error/terraform-test-module/commit/eb66fa9bce36f382e7d147ece30b8dface04a9cf))
+
 ## [2.0.0](https://github.com/418error/terraform-test-module/compare/v1.2.0...v2.0.0) (2025-01-29)
 
 

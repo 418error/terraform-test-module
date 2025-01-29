@@ -2,6 +2,17 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.0](https://github.com/418error/terraform-test-module/compare/v1.2.0...v2.0.0) (2025-01-29)
+
+
+### ⚠ BREAKING CHANGES
+
+* Removing another critical bucket (#7)
+
+### Bug Fixes
+
+* Removing another critical bucket ([#7](https://github.com/418error/terraform-test-module/issues/7)) ([c11e614](https://github.com/418error/terraform-test-module/commit/c11e614927346670a0d2fdddcb811bfe92499691))
+
 ## [1.2.0](https://github.com/418error/terraform-test-module/compare/v1.1.1...v1.2.0) (2025-01-29)
 
 
